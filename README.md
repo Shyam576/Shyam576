@@ -92,8 +92,8 @@
 ---
 
 ### 📫 Reach Me
-📧 [shyam@example.com](mailto:shyam@example.com)  
-🐦 [@shyam_basnet](https://twitter.com/shyam_basnet)  
+📧 [shyambasnet289@gmail.com](mailto:shyam@example.com)  
+📸 [@stupid_daf](https://instagram.com/stupid_daf) 
 🐙 [GitHub](https://github.com/shyambasnet)
 
 ---

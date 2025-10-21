@@ -74,11 +74,6 @@
 
 ---
 
-### 🐍 My Contribution Snake
-![snake gif](https://github.com/shyambasnet/shyambasnet/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 💬 Quote That Feels Too Real
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
 
@@ -93,7 +88,9 @@
 
 ### 📫 Reach Me
 📧 [shyambasnet289@gmail.com](mailto:shyam@example.com)  
-📸 [@stupid_daf](https://instagram.com/stupid_daf) 
+
+📸 [@stupid_daf](https://instagram.com/stupid_daf)
+
 🐙 [GitHub](https://github.com/shyambasnet)
 
 ---

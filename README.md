@@ -39,18 +39,18 @@ Also trying to **understand Rust** before Rust understands me.
 ---
 
 ### 🏆 Trophies (Because Validation Matters)
-[![trophy](https://github-profile-trophy.vercel.app/?username=shyambasnet&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shyam576&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🔥 Stats That Keep Me Humble
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyambasnet&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyambasnet&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam576&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam576&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyambasnet&layout=compact&theme=tokyonight" height="130">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam576&layout=compact&theme=tokyonight" height="130">
 </p>
 
 ---

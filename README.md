@@ -85,7 +85,7 @@ Learning **Rust**, because therapy was too expensive.
 
 ### 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shyam576/Shyam576/output/github-contribution-grid-snake.svg" 
+  <img src="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake.svg" 
        alt="github contribution grid snake animation" />
 </p>
 

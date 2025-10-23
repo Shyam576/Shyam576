@@ -1,103 +1,108 @@
-<!-- 🤫 Spoiler: Yes, it compiles... sometimes. -->
+<!-- 🧠 Welcome to the Matrix -->
+<!-- ⚡ Cyberpunk Legendary Edition -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shyam+Basnet+👋;Backend+Engineer+%7C+Rust+Explorer+%7C+Bug+Whisperer;Building+Microservices+Since+They+Were+Macro+Problems;Making+Servers+Behave+(Mostly))](https://git.io/typing-svg)
-
----
-
-<h1 align="center">🧙‍♂️ Shyam Basnet</h1>
-<p align="center"><b>Backend Engineer | Rust Explorer | Debug Philosopher</b></p>
-<p align="center"><i>“If it compiles, ship it. If it doesn’t, ship it in Docker.”</i></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=3000&pause=1000&color=0FFFC0&center=true&vCenter=true&width=650&lines=Hello+World+👋;I'm+Shyam+Basnet;Backend+Engineer+%7C+Rust+Explorer+%7C+Bug+Whisperer;Initiating+Backend+Protocols...;Connecting+to+Coffee+API...Success)](https://git.io/typing-svg)
 
 ---
 
-### 🧠 My Origin Story
-Once, a young dev whispered:  
+<h1 align="center">💀 Shyam Basnet</h1>
+<p align="center"><b><i>Backend Engineer | Rust Explorer | Debug Philosopher</i></b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-macOS-black?style=flat-square&logo=apple" />
+  <img src="https://img.shields.io/badge/Editor-Neovim%20%2F%20VSCode-0FFFC0?style=flat-square&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Code-NestJS%20%7C%20Rust%20%7C%20Docker-ff00ff?style=flat-square" />
+</p>
+
+---
+
+### 🧬 Origin Story
+Once a young dev declared:  
 > “Let there be microservices.”
 
-The result?  
-Containers, chaos, and caffeine dependency.  
-Now I architect things that (usually) work — powered by **NestJS**, **PostgreSQL**, and dark magic known as **Docker Compose**.
+The world responded with **Docker errors**, **YAML**, and **existential dread**.  
+Now I summon services that (usually) behave — with **NestJS**, **PostgreSQL**, and pure caffeine.
 
 ---
 
 ### ⚙️ Current Loadout
 `NestJS` ⚡ `Next.js` ⚙️ `PostgreSQL` 🧩 `Docker` 🧠 `Redis` 🔥 `TypeORM`  
-Learning **Rust**, because I heard pain builds character.
+Learning **Rust**, because therapy was too expensive.
 
 ---
 
-### 🪄 Toolkit of Choice
+### 🧠 Dev Toolkit
 | Tool | Function |
 |------|-----------|
-| 🧠 Obsidian | Thought storage for future me |
-| 🧑‍🚀 Neovim | When I’m in hacker mode |
-| 💻 VSCode | When I remember I’m mortal |
-| 🪄 Yarn / pnpm | Because npm felt too vanilla |
-| ☕ Coffee | The real runtime environment |
+| 🧠 Obsidian | Mind palace for chaos |
+| 🧑‍🚀 Neovim | For when I roleplay as a hacker |
+| 💻 VSCode | For when I accept being mortal |
+| 🪄 Yarn / pnpm | Package sorcery |
+| ☕ Coffee | The real runtime dependency |
 
 ---
 
 ### 🏆 Dev Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shyam576&theme=tokyonight&no-frame=true&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shyam576&theme=matrix&no-frame=true&margin-w=10" alt="trophies" />
 </p>
 
 ---
 
-### 🔥 Stats That Keep Me Humble
+### ⚡ Stats That Keep Me Humble
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyam576&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam576&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam576&show_icons=true&theme=radical&title_color=0FFFC0&text_color=C0C0C0" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam576&theme=radical&currStreakLabel=00F7FF&ring=ff00ff&fire=0FFFC0" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam576&layout=compact&theme=tokyonight" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam576&layout=compact&theme=radical&title_color=ff00ff&text_color=FFFFFF" height="130" />
 </p>
 
 ---
 
 ### 🧩 Side Quests
-- Trying to **understand Rust**, but Rust keeps understanding *me*  
-- Automating everything — even my mistakes  
-- Mastering the art of *“it worked yesterday”*
+- Learning **Rust**, still unsure if it’s learning me back  
+- Automating my procrastination workflow  
+- Building microservices I’ll forget to document  
 
 ---
 
-### 🐛 Core Skills
-- Writing code that *technically* runs  
-- Naming variables after emotional states (`hope`, `fear`, `maybeThisWorks`)  
-- Explaining bugs using interpretive dance  
-- Debugging via print statements and divine intervention  
+### 🐛 Core Abilities
+- Summoning bugs at runtime  
+- Writing functions with ✨faith✨  
+- Naming variables like `pain`, `maybeThisWorks`, and `wtfIsThis`  
+- Debugging via print statements and caffeine rituals  
 
 ---
 
-### ⚡ Fun Facts
-- My Git commit messages read like haikus of regret  
-- I once dockerized a to-do list app *for science*  
-- The dark theme isn’t a choice — it’s a personality trait  
+### ⚡ Random Developer Facts
+- My commit messages read like poetry from a tired soul  
+- I dockerized a calculator once. Don’t ask why.  
+- “Dark theme” isn’t a preference. It’s survival.
 
 ---
 
-### 💬 Quotes That Keep Me Going
-> “Works on my machine.” — A timeless classic  
-> “Code never lies, comments sometimes do.” — Ron Jeffries  
-> “Don’t test in prod... unless you’re feeling lucky.” — Probably me  
+### 💬 Quotes That Slap
+> “Works on my machine.” — A dev’s national anthem  
+> “To err is human, to blame it on cache is divine.”  
+> “Code never lies; stack traces do.”  
 
 ---
 
 ### 🤔 FAQ Nobody Asked
 **Q:** Why backend?  
-**A:** Because frontend has feelings.  
+**A:** Because frontend has emotions.  
+
+**Q:** Favorite debugging method?  
+**A:** Sacrificing a semicolon to the compiler gods.  
 
 **Q:** Favorite stack?  
-**A:** The one that doesn’t randomly 500.  
-
-**Q:** How do you debug?  
-**A:** With `console.log` and unearned confidence.  
+**A:** Anything that doesn’t randomly 500.  
 
 ---
 
-### 📫 Reach Me
+### 📫 Connect with Me
 📧 [shyam@example.com](mailto:shyam@example.com)  
 🐦 [@shyam_basnet](https://twitter.com/shyam_basnet)  
 📸 [@stupid_daf](https://instagram.com/stupid_daf)  
@@ -105,24 +110,24 @@ Learning **Rust**, because I heard pain builds character.
 
 ---
 
-### 🪫 Today’s Commit Energy
-⚡⚡⚡🪫🪫 — running mostly on caffeine and hope.
+### 🪫 Commit Battery
+🧃🔋🔋🪫🪫 — 20% code, 80% caffeine.
 
 ---
 
 ### 💻 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam576&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam576&theme=matrix" alt="activity graph" />
 </p>
 
 ---
 
 ### 💬 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </p>
 
 ---
 
 ### 🧠 Hidden Feature
-<sub><sup>If you read this far, you just triggered an easter egg. You’re now in the `elite_contributors` table. No rollback allowed.</sup></sub>
+<sub><sup>If you’re reading this, you’ve unlocked the “Elite Contributor” badge. You can’t unsee this now.</sup></sub>

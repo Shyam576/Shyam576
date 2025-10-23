@@ -76,6 +76,20 @@ Learning **Rust**, because therapy was too expensive.
 - Debugging via print statements and caffeine rituals  
 
 ---
+### ⚙️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,java,spring,mysql,html,css,js,git,github,vscode,postman&theme=dark" />
+</p>
+
+---
+### 🐍 My Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shyam576/Shyam576/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shyam576/Shyam576/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shyam576/Shyam576/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ### ⚡ Random Developer Facts
 - My commit messages read like poetry from a tired soul  

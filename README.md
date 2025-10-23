@@ -1,96 +1,134 @@
-<!-- ⚡ Cyberpunk Hacker Terminal -->
-<!-- 🛡️ The Sentinel Archivist: True Hacker Edition -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=3000&pause=500&color=0FFFC0&center=true&vCenter=true&width=700&lines=Initializing+Sentinel+Archive...;Booting+Rust+Protocols...;Dockerizing+Reality...;Summoning+Bugs+with+Caffeine...)](https://git.io/typing-svg)
+<!-- 🧠 Welcome to the Matrix -->
+<!-- ⚡ Cyberpunk Legendary Edition -->
 
----
-
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FFFF; background:#1A1A1A; padding:15px; border-radius:5px; line-height:14px;">
-███████╗██╗  ██╗███████╗███╗   ██╗ █████╗ ███╗   ██╗███████╗
-██╔════╝██║  ██║██╔════╝████╗  ██║██╔══██╗████╗  ██║██╔════╝
-█████╗  ███████║█████╗  ██╔██╗ ██║███████║██╔██╗ ██║█████╗  
-██╔══╝  ██╔══██║██╔══╝  ██║╚██╗██║██╔══██║██║╚██╗██║██╔══╝  
-██║     ██║  ██║███████╗██║ ╚████║██║  ██║██║ ╚████║███████╗
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-</pre>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=3000&pause=1000&color=0FFFC0&center=true&vCenter=true&width=650&lines=Hello+World+👋;I'm+Shyam+Basnet;Backend+Engineer+%7C+Rust+Explorer+%7C+Bug+Whisperer;Initiating+Backend+Protocols...;Connecting+to+Coffee+API...Success)](https://git.io/typing-svg)
 
 ---
 
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FF00; background:#1A1A1A; padding:12px; border-radius:5px;">
-[STATUS]        ONLINE
-[SHIELD]        ACTIVE
-[NODE]          Sentinel 576
-[NETWORK]       ENCRYPTED
-[CPU]           ☕ Caffeine-Optimized
-[MEMORY]        🧠 Dev Thoughts Cached
-[DISK]          87% Full of Chaos
-</pre>
+<h1 align="center">💀 Shyam Basnet</h1>
+<p align="center"><b><i>Backend Engineer | Rust Explorer | Debug Philosopher</i></b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-macOS-black?style=flat-square&logo=apple" />
+  <img src="https://img.shields.io/badge/Editor-Neovim%20%2F%20VSCode-0FFFC0?style=flat-square&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Code-NestJS%20%7C%20Rust%20%7C%20Docker-ff00ff?style=flat-square" />
+</p>
 
 ---
 
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FFFF; background:#1A1A1A; padding:12px; border-radius:5px;">
-Accessing the Sentinel Archive — Keeper of digital contracts, temporal indices, and immutable data streams.
-Active Skills: NestJS Microservices, PostgreSQL Temporal Queries, Rust Services.
-</pre>
+### 🧬 Origin Story
+Once a young dev declared:  
+> “Let there be microservices.”
+
+The world responded with **Docker errors**, **YAML**, and **existential dread**.  
+Now I summon services that (usually) behave — with **NestJS**, **PostgreSQL**, and pure caffeine.
 
 ---
 
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FF00; background:#1A1A1A; padding:12px; border-radius:5px;">
-MISSION LOGS:
-[Consensus Vault]           Secure distributed storage of visa applications & guest data ✔
-[Chrono-Index Grid]         Temporal indexing, time-travel queries, chaos controlled ✔
-[Integrity Stream Monitor]  Real-time passport MRZ validation, nothing escapes ✔
-</pre>
+### ⚙️ Current Loadout
+`NestJS` ⚡ `Next.js` ⚙️ `PostgreSQL` 🧩 `Docker` 🧠 `Redis` 🔥 `TypeORM`  
+Learning **Rust**, because therapy was too expensive.
 
 ---
 
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FFFF; background:#1A1A1A; padding:12px; border-radius:5px;">
-CIPHER STATS:
-⭐ Stars        : 245 ░▒▓%@#
-🔧 Forks        : 87  ░▒▓%@#
-💻 Commits      : 4,281 ░▒▓%@#
-🔥 Streak       : 73d ░▒▓%@#
-</pre>
+### 🧠 Dev Toolkit
+| Tool | Function |
+|------|-----------|
+| 🧠 Obsidian | Mind palace for chaos |
+| 🧑‍🚀 Neovim | For when I roleplay as a hacker |
+| 💻 VSCode | For when I accept being mortal |
+| 🪄 Yarn / pnpm | Package sorcery |
+| ☕ Coffee | The real runtime dependency |
 
 ---
 
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FF00; background:#1A1A1A; padding:12px; border-radius:5px;">
-🐛 CORE ABILITIES:
-- Summon bugs at runtime
-- Write functions with ✨faith✨
-- Name variables like pain, maybeThisWorks, wtfIsThis
-- Debug using print statements & caffeine rituals
-</pre>
+### 🏆 Dev Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shyam576&theme=matrix&no-frame=true&margin-w=10" alt="trophies" />
+</p>
 
 ---
 
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FFFF; background:#1A1A1A; padding:12px; border-radius:5px;">
-🧩 SIDE QUESTS:
-- Learning Rust (still unsure if it’s learning me)
-- Automating procrastination workflow
-- Building microservices I’ll forget to document
-</pre>
+### ⚡ Stats That Keep Me Humble
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam576&show_icons=true&theme=radical&title_color=0FFFC0&text_color=C0C0C0" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam576&theme=radical&currStreakLabel=00F7FF&ring=ff00ff&fire=0FFFC0" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam576&layout=compact&theme=radical&title_color=ff00ff&text_color=FFFFFF" height="130" />
+</p>
 
 ---
 
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FF00; background:#1A1A1A; padding:12px; border-radius:5px;">
-RECENT COMMITS:
-[2025-10-20] [Consensus Vault] -> Integrity check passed. Commit: a3f4d9e
-[2025-10-18] [Chrono-Index Grid] -> Temporal index rebuilt. Commit: b5e7a2f
-[2025-10-17] [Integrity Stream Monitor] -> Stream validation complete. Commit: c2d9b0a
-[2025-10-15] [Consensus Vault] -> Security patch deployed. Commit: f1a7c4d
-</pre>
+### 🧩 Side Quests
+- Learning **Rust**, still unsure if it’s learning me back  
+- Automating my procrastination workflow  
+- Building microservices I’ll forget to document  
 
 ---
 
-<pre style="font-family:'IBM Plex Mono', monospace; color:#00FFFF; background:#1A1A1A; padding:12px; border-radius:5px;">
-CONNECT:
-📧 shyam@example.com
-🐦 @shyam_basnet
-📸 @stupid_daf
-🐙 GitHub: https://github.com/Shyam576
-</pre>
+### 🐛 Core Abilities
+- Summoning bugs at runtime  
+- Writing functions with ✨faith✨  
+- Naming variables like `pain`, `maybeThisWorks`, and `wtfIsThis`  
+- Debugging via print statements and caffeine rituals  
 
 ---
 
+### ⚡ Random Developer Facts
+- My commit messages read like poetry from a tired soul  
+- I dockerized a calculator once. Don’t ask why.  
+- “Dark theme” isn’t a preference. It’s survival.
+
+---
+
+### 💬 Quotes That Slap
+> “Works on my machine.” — A dev’s national anthem  
+> “To err is human, to blame it on cache is divine.”  
+> “Code never lies; stack traces do.”  
+
+---
+
+### 🤔 FAQ Nobody Asked
+**Q:** Why backend?  
+**A:** Because frontend has emotions.  
+
+**Q:** Favorite debugging method?  
+**A:** Sacrificing a semicolon to the compiler gods.  
+
+**Q:** Favorite stack?  
+**A:** Anything that doesn’t randomly 500.  
+
+---
+
+### 📫 Connect with Me
+📧 [shyam@example.com](mailto:shyam@example.com)  
+🐦 [@shyam_basnet](https://twitter.com/shyam_basnet)  
+📸 [@stupid_daf](https://instagram.com/stupid_daf)  
+🐙 [GitHub](https://github.com/Shyam576)
+
+---
+
+### 🪫 Commit Battery
+🧃🔋🔋🪫🪫 — 20% code, 80% caffeine.
+
+---
+
+### 💻 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam576&theme=matrix" alt="activity graph" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+---
+
+### 🧠 Hidden Feature
 <sub><sup>If you’re reading this, you’ve unlocked the “Elite Contributor” badge. You can’t unsee this now.</sup></sub>

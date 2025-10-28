@@ -43,7 +43,12 @@ Learning **Rust**, because therapy was too expensive.
 
 ---
 
+### 🏆 Dev Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shyam576&theme=matrix&no-frame=true&margin-w=10" alt="trophies" />
+</p>
 
+---
 
 ### ⚡ Stats That Keep Me Humble
 <p align="center">

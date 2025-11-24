@@ -110,10 +110,10 @@ Learning **Rust**, because therapy was too expensive.
 ---
 
 ### 📫 Connect with Me
-📧 [shyam@example.com](mailto:shyam@example.com)  
+📧 [shyambasnet289@gmail.com](mailto:shyambasnet289@gmail.com)  
 🐦 [@shyam_basnet](https://twitter.com/shyam_basnet)  
 📸 [@stupid_daf](https://instagram.com/stupid_daf)  
-🐙 [GitHub](https://github.com/Shyam576)
+🐙 [Shyam576](https://github.com/Shyam576)
 
 ---
 
